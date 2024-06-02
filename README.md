@@ -8,3 +8,6 @@ Includes styled navigation menus, product listings, and a shopping cart.
 
 
 ![image](https://github.com/aviralsaxena1104/Amazon-Clone-using-basic-web-developement/assets/122203395/1bccc416-111f-408e-84c3-afaa4c8dcf3a)
+
+![image](https://github.com/aviralsaxena1104/Amazon-Clone-using-basic-web-developement/assets/122203395/09d7d961-af40-4504-be5b-bfa0e1786dbc)
+
